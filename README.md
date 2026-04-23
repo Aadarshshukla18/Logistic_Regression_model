@@ -83,4 +83,4 @@ Higher study hours and better attendance significantly increase the chances of p
 ## 👨‍💻 Author
 
 **Aadarsh Shukla**  
-**(Data Scientist)**🚀
+(**Data Scientist**)🚀
